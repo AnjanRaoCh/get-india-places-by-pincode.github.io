@@ -1,0 +1,26 @@
+{
+  "name": "get-indian-places-on-pincodes",
+  "version": "1.4.0",
+  "description": "If we  give 6 digits indian pincode as input, will get the palces of that particular pincode  ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnjanRaoCh/get-india-places-by-pincode.github.io.git"
+  },
+  "keywords": [
+    "Pincode",
+    "india",
+    "places",
+    "pincode",
+    "city"
+  ],
+  "author": "Anjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnjanRaoCh/get-india-places-by-pincode.github.io/issues"
+  },
+  "homepage": "https://github.com/AnjanRaoCh/get-india-places-by-pincode.github.io#readme"
+}
